@@ -1,5 +1,7 @@
 ### [你好，世界 👋](https://ziuchen.github.io)
 
+<img align="right" width="50%" src="https://wakatime.com/share/@f3bae2e1-09a8-41e7-b78c-3516f77ade46/6117fb30-25de-44f8-8a1d-3e8df4e49b4b.svg" />
+
 <br/>
 
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
